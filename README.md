@@ -11,6 +11,6 @@
 </div>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K w w0k&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kww0k&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kww0k" />
