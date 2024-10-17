@@ -7,7 +7,7 @@
    🌱 I’m currently a university student in China
 </div>
 <div>
-   🤔 I’m playing Genshin Impact and Honkai Star Rail at the same time
+   🤔 I’m playing Genshin Impact and Honkai Star Rail at the same time and Zenless Zone Zero
 </div>
 <br/>
 
